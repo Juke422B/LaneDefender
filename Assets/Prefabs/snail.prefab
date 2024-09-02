@@ -102,6 +102,7 @@ MonoBehaviour:
   health: 5
   enemyHit: {fileID: 8300000, guid: 8566b76c6b1847f429d2a67eb520504c, type: 3}
   enemyDeath: {fileID: 8300000, guid: 0650ffd42b0e85a43a9339b274ffc366, type: 3}
+  Lives_Text: {fileID: 2016558259247302216, guid: 9c22ff5b11b28be46ad3eec4c96bc5ab, type: 3}
 --- !u!60 &-9024493748589050226
 PolygonCollider2D:
   m_ObjectHideFlags: 0
